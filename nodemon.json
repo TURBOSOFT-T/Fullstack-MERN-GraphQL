@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "tuemothomas",
+    "MONGO_PASSWORD": "admin123",
+    "MONGO_DB": "mongodb+srv://tuemothomas:admin123@cluster0.b0gmihk.mongodb.net/?retryWrites=true&w=majority"
+    
+  }
+}
